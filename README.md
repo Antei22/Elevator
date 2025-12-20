@@ -18,7 +18,7 @@ java elevator.Main
 3. Далее вводите запросы пассажиров в формате:
 
 ```text
-fromFloor toFloor
+fromFloor toFloor fromFloor toFloor ...
 ```
 
 ## Реализация
